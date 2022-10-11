@@ -2,7 +2,7 @@ const bodyParser = require('body-parser')
 const express = require('express')
 const router = express.Router()
 const jwt = require('jsonwebtoken')
-const JWT_SECRET = 'secret is some thing that every body need to do in his application < isnot it '
+const JWT_SECRET = 'secret => secret ===kopcdem3432,d/\!@@$#%6%&^jngrt'
 const registrationModel = require('../model/registration.model')
 const loginModel = require('../model/login.model')
 
